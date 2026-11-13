@@ -12,6 +12,11 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
+    - name: Create missing .env.example file
+      run: |
+        # إنشاء ملف فارغ لمنع خطأ Gradle
+        touch .env.example
+
     - name: Set up JDK 17
       uses: actions/setup-java@v4
       with:
