@@ -1,4 +1,0 @@
--keep class com.sun.jna.** { *; }
--keep class * implements com.sun.jna.** { *; }
--keep class org.vosk.** { *; }
--keep class com.k2fsa.sherpa.onnx.** { *; }
