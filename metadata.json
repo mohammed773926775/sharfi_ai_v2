@@ -1,0 +1,6 @@
+{
+  "name": "Sharafi Assistant",
+  "description": "Fully offline bilingual (Arabic & English) voice-activated Android assistant powered by Vosk STT, Sherpa-ONNX TTS, rule-based compound NLU, and a plugin-based system action executor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

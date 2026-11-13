@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sharafi Assistant</string>
+    <string name="brand_title">SHARAFI AI</string>
+    <string name="brand_subtitle">Offline Bilingual Voice Engine • Vosk STT + Sherpa-ONNX TTS</string>
+    <string name="offline_badge">100% OFFLINE</string>
+    <string name="setup_title">Offline Acoustic &amp; Neural Voice Setup</string>
+    <string name="setup_subtitle">Downloading &amp; provisioning Arabic and English speech recognition (Vosk) and neural synthesis (Sherpa-ONNX VITS) models to internal storage.</string>
+    <string name="setup_start_download">Download Full Models (HTTPS)</string>
+    <string name="setup_fast_track">Provision Offline Engine &amp; Launch Now</string>
+    <string name="setup_continue_main">Launch Sharafi Assistant</string>
+    <string name="mic_button_desc">Toggle Offline Voice Listening</string>
+    <string name="speaker_button_desc">Speak Last Response</string>
+    <string name="model_manager_desc">Open Offline Model Setup &amp; Storage Inspector</string>
+    <string name="plugin_registry_desc">Inspect System Action Executor Plugins</string>
+    <string name="command_input_placeholder">Speak or type an English / Arabic command (compound supported)…</string>
+    <string name="execute_command_desc">Execute Command</string>
+</resources>
